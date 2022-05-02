@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VizaraVex
-- 👀 Java, Python, HTML, CSS, and SQL Development.
+- 👀  Java, C#, C++, HTML, CSS, and python.
 - 🌱 I’m currently improving my coding skills forever!
 
 <!---
